@@ -1,0 +1,97 @@
+{
+  "version": 1,
+  "base_track": "カムパネルラ",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-03-26T10:22:09.600696Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カムパネルラ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_カムパネルラ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カムパネルラ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_カムパネルラ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "For Campanella [カムパネルラ]",
+      "artist": "sasakure.UK",
+      "has_synced": true,
+      "path": "select/03_For_Campanella_[カムパネルラ]_sasakure.UK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カムパネルラ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_カムパネルラ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カムパネルラ",
+      "artist": "ダズビー",
+      "has_synced": false,
+      "path": "select/05_カムパネルラ_ダズビー.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カムパネルラ (Campanella)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_カムパネルラ_(Campanella)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カムパネルラ",
+      "artist": "米津玄师 Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/07_カムパネルラ_米津玄师_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カムパネルラ - Campanella",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/08_カムパネルラ_-_Campanella_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カムパネルラ",
+      "artist": "Kenshi Yonezu (米津玄師)",
+      "has_synced": true,
+      "path": "select/09_カムパネルラ_Kenshi_Yonezu_(米津玄師).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カムパネルラ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_カムパネルラ_米津玄師.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "カムパネルラ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/localdb_01_カムパネルラ_米津玄師.txt",
+      "repo_name": "XeFQJ6-XoD0"
+    }
+  ]
+}
